@@ -18,7 +18,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>cn.edu.hbut.software.hang.mvc</groupId>
-			<artifactId>hang-mvc</artifactId>
+			<artifactId>WebSide</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
